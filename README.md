@@ -69,7 +69,7 @@
   </ul>
 
   <h2>🎁 回报机制</h2>
-  <p style="text-align: center; font-style: italic;">你随便写，反正我也不给</p>
+  <p style="text-align: center; font-style: italic;">不给</p>
 
   <h2>📜 免责声明</h2>
   <p>本项目纯属虚构，众筹无实物回报，仅供娱乐，认真的话你就输了（但钱是真的可以给）。</p>
