@@ -72,7 +72,7 @@
   <p style="text-align: center; font-style: italic;">不给</p>
 
   <h2>📜 免责声明</h2>
-  <p>本项目纯属虚构，众筹无实物回报，仅供娱乐，认真的话你就输了（但钱是真的可以给）。</p>
+  <p>本项目纯属虚构，众筹无实物回报，反正不给。</p>
 
   <a class="button" href="tencent://message/?uin=671594053">💂‍♂️ 我愿意效忠陛下（点击进入众筹入口）</a>
 
